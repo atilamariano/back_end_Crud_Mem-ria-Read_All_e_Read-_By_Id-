@@ -5,10 +5,15 @@
 
 Endpoints (4 pontos)
 
+
 [GET] Leitura de todas os personagens (0,8 pontos);
+
 [GET] Leitura de personagens individuais (por ID) (0,8 pontos).
+
 [POST] Criação de personagens (0,8 pontos);
+
 [PUT] Edição de personagens por ID (0,8 pontos);
+
 [DELETE] Exclusão de personagens por ID (0,8 pontos).
 ##
 
@@ -16,7 +21,9 @@ Endpoints (4 pontos)
 
 
 Lista em memória (2 pontos);
+
 CORS - Liberado (2 pontos);
+
 Formatação do código utilizando o Prettier (2 pontos).
 ##
 
